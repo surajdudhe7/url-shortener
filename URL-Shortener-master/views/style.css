@@ -1,0 +1,40 @@
+/* style.css */
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+table {
+  color: #ffffff;
+}
+
+th {
+  background-color: #343a40;
+}
+
+td {
+  background-color: #495057;
+}
+
+a {
+  color: #ffffff;
+}
